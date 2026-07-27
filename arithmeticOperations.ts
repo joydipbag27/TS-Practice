@@ -106,3 +106,5 @@ type Calculate<N1 extends number, N2 extends number> = {
 }
 
 type A = Calculate<10, 2>
+
+export {}
